@@ -1,0 +1,20 @@
+// package.json
+{
+  "name": "ditz-store",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.0.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "mongoose": "8.0.1",
+    "bcryptjs": "2.4.3",
+    "jsonwebtoken": "9.0.2",
+    "cookies-next": "4.0.0"
+  }
+}
